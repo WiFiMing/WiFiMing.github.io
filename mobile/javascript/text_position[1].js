@@ -1,0 +1,1 @@
+﻿positionForPages[1]={page:1,positions:[{word:"四川省御膳院科技有限公司",left:0.713467,top:0.680646,width:0.156000,height:0.029837},{word:"四川省校霆光明峰科技有限公司",left:0.687467,top:0.719542,width:0.182000,height:0.029837},{word:"四川省维它谓宠物食品有限公司",left:0.687467,top:0.758438,width:0.182000,height:0.029837},{word:"四川省仙宠阁兽医服务有限公司",left:0.687467,top:0.797334,width:0.182000,height:0.029837}]};
